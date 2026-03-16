@@ -18,8 +18,8 @@ A very lightweight and quick nozzle based clumping detection for Klipper-based 3
 ---
 
 <p align="center">
-  <img src="[img/repo-img/topviewrender.png]" alt="Repo img" width="45%"/>
-  <img src="[img/repo-img/coolcloseuprender.png]" alt="Repo img" width="45%"/>
+  <img src="https://github.com/Aetriq/CEG4195-Project/blob/main/img/repo-img/topviewrender.png?raw=true" alt="Repo img" width="45%"/>
+  <img src="https://github.com/Aetriq/CEG4195-Project/blob/main/img/repo-img/coolcloseuprender.png?raw=true" alt="Repo img" width="45%"/>
 </p>
 
 ---
