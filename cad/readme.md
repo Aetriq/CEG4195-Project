@@ -7,5 +7,6 @@
 </p>
 
 ---
-
-![image](https://github.com/Aetriq/CEG4195-Project/raw/main/img/repo-img/cad.JPG?raw=true)
+<p align="center">
+  <img src="https://github.com/Aetriq/CEG4195-Project/raw/main/img/repo-img/cad.JPG?raw=true" alt="img" width="50%"/>
+</p>
