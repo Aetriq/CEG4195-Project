@@ -1,0 +1,5 @@
+dependencies:
+  espressif/esp32-camera:
+    version: "2.1.5"
+  espressif/esp-dsp: "*"
+  espressif/esp-nn: "*"
