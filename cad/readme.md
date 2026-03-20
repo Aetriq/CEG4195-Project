@@ -9,5 +9,5 @@ Credits to [Matt Tranchina](https://www.printables.com/model/1162344-esp32-cam-c
 
 ---
 <p align="center">
-  <img src="https://github.com/Aetriq/CEG4195-Project/raw/main/img/repo-img/cad.JPG?raw=true" alt="img" width="50%"/>
+  <img src="https://github.com/Aetriq/CEG4195-Project/raw/main/img/repo-img/cad.JPG?raw=true" alt="img" width="30%"/>
 </p>
